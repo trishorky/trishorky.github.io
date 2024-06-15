@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trishorky.github.io/sitemap
+Sitemap: https://trishorky.github.io/app/sitemap
+Sitemap: https://trishorky.github.io/assets/sitemap
+Sitemap: https://trishorky.github.io/css/sitemap
+Sitemap: https://trishorky.github.io/includes/sitemap
+Sitemap: https://trishorky.github.io/item/sitemap
+Sitemap: https://trishorky.github.io/src/sitemap
